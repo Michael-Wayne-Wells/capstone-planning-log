@@ -28,3 +28,5 @@
 * 11-11:30 - further research on defensive programming 
 * 11:30 - 12:00 reach out to InfoSec community for advice and recs
 * 12:00 - 1pm secure programming course online
+* 1-2pm - lunch
+
