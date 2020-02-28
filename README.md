@@ -29,4 +29,4 @@
 * 11:30 - 12:00 reach out to InfoSec community for advice and recs
 * 12:00 - 1pm secure programming course online
 * 1-2pm - lunch
-
+* 2-3pm continue secure programming course
