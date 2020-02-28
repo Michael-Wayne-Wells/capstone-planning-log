@@ -19,3 +19,9 @@
 * Diagram plan
 * Build base Rails app for information structure 
 
+## Log
+
+* 7:30 - initial planning and setup
+* 8-8:30 - firebase research
+* 8:30-9 - React + Rails 
+* 9-10 - Study Owasp Material
