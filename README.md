@@ -30,3 +30,4 @@
 * 12:00 - 1pm secure programming course online
 * 1-2pm - lunch
 * 2-3pm continue secure programming course
+* 3-4pm work through tutorial of adding an ide to react app
