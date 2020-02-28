@@ -24,4 +24,7 @@
 * 7:30 - initial planning and setup
 * 8-8:30 - firebase research
 * 8:30-9 - React + Rails 
-* 9-10 - Study Owasp Material
+* 9-11 - Study Owasp Material
+* 11-11:30 - further research on defensive programming 
+* 11:30 - 12:00 reach out to InfoSec community for advice and recs
+* 12:00 - 1pm secure programming course online
