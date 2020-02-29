@@ -3,11 +3,13 @@
 
 ## Technology
 
-* Rails API / Backend
+* Rails API / Backend - likely not needed
 * React front end
 * FireBase?
-* Message board
-* Devise login
+* Message board?
+* Devise or Okta uder mgmt
+* Ace-React Code Editor
+* Code Sandbox https://codesandbox.io/
 
 
 ## Todo Friday 2/28
@@ -16,8 +18,8 @@
 * Research firebase
 * Research Rails and React integration
 * Research EDU models
+* Research embedded code editors
 * Diagram plan
-* Build base Rails app for information structure 
 
 ## Log
 
@@ -31,3 +33,4 @@
 * 1-2pm - lunch
 * 2-3pm continue secure programming course
 * 3-4pm work through tutorial of adding an ide to react app
+* 4-5pm draw out ideas for app and mka plan for the following weeks
