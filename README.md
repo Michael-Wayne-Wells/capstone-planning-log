@@ -38,4 +38,5 @@
 
 ## Log 3/6
  * 8-8:30 brainstorm and write out plan.
- 
+ * 8:30 - 9 whiteboard component tree
+  
