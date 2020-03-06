@@ -37,8 +37,9 @@
 
 
 ## Log 3/6
- * 8-8:30 brainstorm and write out plan.
- * 8:30 - 9 whiteboard component tree
- * 9 - 10 Set up basic react app with file structure and component tree.
- * 10 - 11 Continue work on file structure and continue course on OWASP
- 
+* 8-8:30 brainstorm and write out plan.
+* 8:30 - 9 whiteboard component tree
+* 9 - 10 Set up basic react app with file structure and component tree.
+* 10 - 11 Continue work on file structure and continue course on OWASP
+* 11 - 11:30 rewrite plan for structure
+* 11:30 take react course 
