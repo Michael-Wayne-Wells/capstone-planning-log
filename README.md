@@ -34,3 +34,8 @@
 * 2-3pm continue secure programming course
 * 3-4pm work through tutorial of adding an ide to react app
 * 4-5pm draw out ideas for app and mka plan for the following weeks
+
+
+## Log 3/6
+ * 8-8:30 brainstorm and write out plan.
+ 
